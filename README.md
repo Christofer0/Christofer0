@@ -27,7 +27,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=christofer0&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📈 Contribution Graph
-![Snake animation](https://github.com/christofer0/christofer0/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/christofer0/christofer0/blob/main/github-contribution-grid-snake.svg)
 
 ## 📌 Featured Projects
 ### [Admin-Vendor Web Application](https://christo-672022224-975615093796.asia-southeast2.run.app/)
