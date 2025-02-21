@@ -12,7 +12,6 @@
 
 ## <img src="https://media.giphy.com/media/Day1AgFfMBsrL6BTpF/giphy.gif" width="25px" alt="tools"> Tech Stack
 ### <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="25px" alt="computer"> Languages & Frameworks
-<img src="https://www.ibm.com/db2/icon.png" width="40px" alt="Db2">
 <div align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=python,js,php,java,cpp,c,r&perline=8" alt="Programming Languages" />
@@ -27,8 +26,9 @@
 ### <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="25px" alt="database"> Database & Infrastructure
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,IBM Db2,redis,gcp&perline=5" alt="Database & Infrastructure" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis,gcp&perline=5" alt="Database & Infrastructure" />
   </a>
+  <img src="https://img.shields.io/badge/IBM%20Db2-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="DB2"/>
 </div>
 <br/>
 
