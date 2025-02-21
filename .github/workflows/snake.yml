@@ -20,6 +20,15 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/github-contribution-grid-snake.svg
+          color_snake: "#00ff00" 
+          color_dots: "#ffffff"
+          color_empty: "#222222"
+          color_food: "#ff0000"
+          pixels_per_second: 10
+          frame_rate: 24
+          food_randomness: 3  # Atur variasi posisi makanan (1-5)
+          food_spawn_rate: 0.7 # Tambah jumlah makanan (0-1)
+
 
       - name: Push animation to the output branch
         uses: crazy-max/ghaction-github-pages@v3
