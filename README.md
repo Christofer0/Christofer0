@@ -26,9 +26,9 @@
 ### <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="25px" alt="database"> Database & Infrastructure
 <div align="center">
   <a href="#">
+    <img src="https://raw.githubusercontent.com/Christofer0/Christofer0/main/assets/logo_db2.png" alt="IBM Db2" width="90px">
     <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis,gcp&perline=5" alt="Database & Infrastructure" />
   </a>
-  ![IBM Db2](https://raw.githubusercontent.com/Christofer0/Christofer0/main/assets/db2_logo.png)
 </div>
 <br/>
 
