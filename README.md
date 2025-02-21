@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Brillian Christofer W
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=40&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Hello+there!;I'm+Brillian+Christofer;Let's+Collaborate!;" alt="Typing SVG" />
+  <p style="font-size: 18px;">Full-Stack Developer crafting elegant digital experiences</p>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake Animation" width="800" />
+</div>
 
 ## 🚀 About Me
 - 🎓 I'm a Student
@@ -6,28 +10,32 @@
 - 🌱 I'm passionate about Software Engineering
 - 📫 Reach me at: brilliancw30@gmail.com
 
-## 🛠️ Languages and Tools
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white)
-![DB2](https://img.shields.io/badge/-DB2-054ADA?style=flat&logo=ibm&logoColor=white)
+## <img src="https://media.giphy.com/media/Day1AgFfMBsrL6BTpF/giphy.gif" width="25px" alt="tools"> Tech Stack
+### <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="25px" alt="computer"> Languages & Frameworks
+<div align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=python,js,php,java,cpp,c,r&perline=8" alt="Programming Languages" />
+  </a>
+  <br/>
+  <br/>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,html,css&perline=5" alt="Frameworks" />
+  </a>
+</div>
+
+### <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="25px" alt="database"> Database & Infrastructure
+<div align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresq,db2,redis,gcp&perline=5" alt="Database & Infrastructure" />
+  </a>
+</div>
+<br/>
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=christofer0&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=christofer0&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 📈 Contribution Graph
-![Snake animation](https://github.com/Christofer0/Christofer0/blob/output/github-contribution-grid-snake.svg)
 
 ## 📌 Featured Projects
 ### [Admin-Vendor Web Application](https://christo-672022224-975615093796.asia-southeast2.run.app/)
