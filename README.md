@@ -26,7 +26,7 @@
 ### <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="25px" alt="database"> Database & Infrastructure
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresq,db2,redis,gcp&perline=5" alt="Database & Infrastructure" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,db2,redis,gcp&perline=5" alt="Database & Infrastructure" />
   </a>
 </div>
 <br/>
