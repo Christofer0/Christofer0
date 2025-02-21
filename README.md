@@ -19,7 +19,7 @@
   <br/>
   <br/>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,html,css&perline=5" alt="Frameworks" />
+    <img src="https://skillicons.dev/icons?i=spring,bootstrap,tailwind,html,css&perline=5" alt="Frameworks" />
   </a>
 </div>
 
