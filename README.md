@@ -12,6 +12,7 @@
 
 ## <img src="https://media.giphy.com/media/Day1AgFfMBsrL6BTpF/giphy.gif" width="25px" alt="tools"> Tech Stack
 ### <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="25px" alt="computer"> Languages & Frameworks
+<img src="https://www.ibm.com/db2/icon.png" width="40px" alt="Db2">
 <div align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=python,js,php,java,cpp,c,r&perline=8" alt="Programming Languages" />
