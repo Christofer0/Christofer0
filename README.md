@@ -28,18 +28,7 @@
   <a href="#">
     <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis,gcp&perline=5" alt="Database & Infrastructure" />
   </a>
-  <svg viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background rectangle with rounded corners -->
-  <rect width="128" height="128" rx="16" fill="#2684FF"/>
-  
-  <!-- DB2 Text -->
-  <text x="64" y="55" font-family="Arial Black, sans-serif" font-size="38" fill="white" text-anchor="middle" font-weight="bold">DB2</text>
-  
-  <!-- Stylized database icon -->
-  <path d="M34 75 L94 75 C94 75 94 85 64 85 C34 85 34 75 34 75 Z" fill="white" opacity="0.9"/>
-  <path d="M34 65 L94 65 C94 65 94 75 64 75 C34 75 34 65 34 65 Z" fill="white" opacity="0.9"/>
-  <path d="M34 55 L94 55 C94 55 94 65 64 65 C34 65 34 55 34 55 Z" fill="white" opacity="0.9"/>
-</svg>
+  ![IBM Db2](https://raw.githubusercontent.com/Christofer0/Christofer0/main/assets/db2_logo.png)
 </div>
 <br/>
 
